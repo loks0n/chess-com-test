@@ -2,6 +2,12 @@
 
 Welcome to the [Chess.com](https://chess.com) front end programming challenge!
 
+# Live demo
+https://chess-com-test.vercel.app/
+
+# GitHub repository
+https://github.com/loks0n/chess-com-test
+
 # Instructions
 1. Fork this repository.
 2. Create a VueJS application that satisfies the requirements detailed below.
