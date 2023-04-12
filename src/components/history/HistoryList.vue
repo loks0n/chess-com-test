@@ -45,13 +45,16 @@ watch(
   display: flex;
   gap: 0.5em;
   padding: 1em 0;
-  overflow: scroll;
+  overflow-x: auto;
+  overflow-y: none;
   max-width: 100%;
   max-height: 100%;
 }
 
 .vertical {
   flex-direction: column;
+  overflow-x: none;
+  overflow-y: auto;
   padding: 0 1em;
 }
 </style>
